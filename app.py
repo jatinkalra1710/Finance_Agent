@@ -13,7 +13,7 @@ except KeyError:
     st.error("API Keys missing! Please add them to Streamlit secrets.")
 
 TODAY = datetime.datetime.now().strftime("%B %d, %Y")
-MODEL = "gemini/gemini-2.5-flash" 
+MODEL = "gemini/gemini-3-flash-preview" 
 
 POPULAR_STOCKS = {
     "Reliance Industries": "RELIANCE.NS",
