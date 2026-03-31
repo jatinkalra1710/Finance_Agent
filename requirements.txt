@@ -1,0 +1,5 @@
+streamlit
+crewai
+yfinance
+tavily-python
+langchain-google-genai
