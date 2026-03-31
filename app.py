@@ -26,11 +26,10 @@ POPULAR_STOCKS = {
     "ITC Limited": "ITC.NS",
     "Larsen & Toubro (L&T)": "LT.NS",
     "Bajaj Finance": "BAJFINANCE.NS",
-    "Tata Motors": "TATAMOTORS.NS",
     "Mahindra & Mahindra": "M&M.NS",
     "Hindustan Unilever": "HINDUNILVR.NS",
     "Axis Bank": "AXISBANK.NS",
-    "Zomato": "ZOMATO.NS"
+    "Zomato": "ETERNAL.NS"
 }
 
 
