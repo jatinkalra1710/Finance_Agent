@@ -43,7 +43,8 @@ Instead of relying on a single, generic AI prompt, this application mimics a rea
 
 ### The Generated Investment Memo
 <div align="center">
-  <img src="https://via.placeholder.com/900x500/1e1e1e/ffffff.png?text=Memo+Screenshot:+Executive+Summary,+Risk+Assessment,+and+Data" alt="Generated Report" width="900"/>
+  <img width="839" height="832" alt="image" src="https://github.com/user-attachments/assets/c7640f91-4745-4da1-9a4a-2d93c685bea2"  width="900" />
+
   <p><i>The final output: A professionally formatted Markdown document detailing pricing, sentiment, and macroeconomic risks.</i></p>
 </div>
 
