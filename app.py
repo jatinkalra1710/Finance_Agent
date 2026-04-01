@@ -120,9 +120,9 @@ def run_analysis(ticker):
     crew = Crew(agents=[research_agent, sentiment_agent, risk_agent, analyst_agent], tasks=tasks, process=Process.sequential)
     return crew.kickoff(inputs={"company": ticker})
 
-st.set_page_config(page_title="AI Hedge Fund Analyst", page_icon="🏦", layout="centered")
+st.set_page_config(page_title="AI Stock Analyst", layout="centered")
 
-st.title("🏦 AI Hedge Fund Strategy Desk")
+st.title("AI Stock Strategy Desk")
 st.markdown("Generate institutional-grade investment memos powered by AI.")
 
 with st.sidebar:
